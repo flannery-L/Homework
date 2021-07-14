@@ -1,0 +1,3 @@
+MainActivity页面进入后有两个button，点击上方的button查看recycleview的实现，点击下方的button查看MyActivity的实现。进入MyActivity页面后，点击第一个button，出现toast信息
+（本机虚拟机上莫名出现不了toast信息，但连接真机后成功出现）；点击第二个button，进入PracticeActivity，该页面显示ui的绘制；点击第三个button，进入baidu页面；点击第四个button，进入拨号页面。
+关于log输出信息，可以设置过滤器选择info信息，在logcat中查看MainActivity各生命周期的日志显示。
