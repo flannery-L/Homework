@@ -1,0 +1,1 @@
+使用RecycleView实现了activity3的好友列表。
