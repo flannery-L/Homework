@@ -1,1 +1,2 @@
 实现了留言板功能。socket部分实现的效果是点击button后，textview显示content信息。
+由于socket的服务器是由程序在线生成的，所以如果把工程卸载，在模拟器上就无法实现socket功能，也许有更好的改进方法。
