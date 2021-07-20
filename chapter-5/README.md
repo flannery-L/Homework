@@ -1,0 +1,1 @@
+实现了留言板功能。socket部分实现的效果是点击button后，textview显示content信息。
